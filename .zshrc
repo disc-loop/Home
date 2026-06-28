@@ -12,6 +12,6 @@ alias so="source ~/.zshrc"
 alias system="cd $SYSTEM_CONFIG"
 alias vd='vd --theme=asciimono'
 alias vi='$EDITOR'
-alias vimrc='$EDITOR $DOTFILES/.vimrc'
+alias vimrc='$EDITOR ~/.vimrc'
 alias zshenv='$EDITOR ~/.zshenv'
 alias zshrc='$EDITOR ~/.zshrc'
