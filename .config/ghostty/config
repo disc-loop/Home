@@ -1,0 +1,13 @@
+font-family = FiraCode Nerd Font
+theme = dark:Gruvbox Dark,light:Gruvbox Light
+adjust-cell-width = -10%
+font-size = 14
+font-thicken = false
+font-thicken-strength = 90
+
+macos-option-as-alt = true
+mouse-hide-while-typing = true
+keybind = alt+left=unbind
+keybind = alt+right=unbind
+cursor-style-blink
+macos-icon = xray
